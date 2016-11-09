@@ -12,7 +12,7 @@ Package.onUse(function(api) {
   api.use('coffeescript');
   api.use('reactive-dict');
   api.use('reload');
-  api.use('kadira:flow-router', 'client', {weak: true});
+  api.use('kadira:flow-router@2.12.1', 'client', {weak: true});
   api.addFiles('client/hot-code-push.coffee', 'client');
   api.mainModule('client/flow-router-autoscroll.coffee', 'client');
   api.export('FlowRouterAutoscroll', 'client');
