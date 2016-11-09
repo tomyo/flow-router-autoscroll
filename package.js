@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tomyo:flow-router-autoscroll',
-  version: '0.0.3',
+  version: '0.0.5',
   summary: 'Smart control of scroll position across route changes for Flow Router. Routes exceptions supported',
   git: 'https://github.com/tomyo/flow-router-autoscroll',
   documentation: 'README.md'
