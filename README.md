@@ -1,7 +1,7 @@
 Autoscroll for Meteor
 ==========================
 
-Based/Forked from [Autoscroll for Iron Router](https://github.com/okgrow/iron-router-autoscroll) by OK GROW!
+Based/Forked from [Router autoscroll](https://github.com/okgrow/router-autoscroll/) by OK GROW!
 
 This package extends the above package functionality, adding support for black
 listing routes where you don't want to autoscroll. Also, Iron router support was
@@ -119,4 +119,4 @@ package since its dependency is declared as `{weak: true}`.
 
 ### License
 
-Released under the [MIT license](https://github.com/tomyo/flow-router-autoscroll/blob/master/License.md).
+Released under the [MIT license](https://github.com/tomyo/flow-router-autoscroll/blob/master/LICENSE).
