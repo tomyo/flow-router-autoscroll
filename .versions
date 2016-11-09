@@ -13,6 +13,6 @@ promise@0.8.8
 random@1.0.10
 reactive-dict@1.1.8
 reload@1.1.11
-tomyo:flow-router-autoscroll@0.0.2
+tomyo:flow-router-autoscroll@0.0.3
 tracker@1.0.15
 underscore@1.0.10
