@@ -61,7 +61,6 @@ scheduleScroll = ->
       scrollTo position
 
 flowScroll = (newRoute) ->
-  console.log 'running flowScroll'
   path = newRoute.context and newRoute.context.pathname or newRoute.path
   if path.indexOf('#') == -1
     scrollTo 0
