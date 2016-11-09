@@ -1,8 +1,7 @@
 hcp = new ReactiveDict('fr-hot-code-push')
 
 debug = (msg) ->
-  console.info msg
-  return
+  # console.info msg
 
 fakeStartPromise =
   then: (actionFn) ->
